@@ -1,0 +1,16 @@
+run backend:
+first enter Backend folder and run server using cmd command:
+
+node server.js
+
+run fronend:
+inside fronend folder using cmd command:
+
+npm install
+npm start
+
+-IMPORTENT: <===============
+be sure when you run the frontend that it's run in port:3000
+IF NOT,you need change in "server.js" that port that server send data to it
+from 3000 to what you have
+inside "server.js" line "240" enter your react port
