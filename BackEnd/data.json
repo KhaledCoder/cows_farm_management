@@ -1,153 +1,172 @@
 [
-    {
-        "cowNumber": "1",
-        "entryDate": "2024-02-07",
-        "species": "back",
-        "Medicalexamination": [
-            [
-                "healhty",
-                "2024-02-27",
-                "it good"
-            ],
-            [
-                "sick",
-                "2024-02-12",
-                "don't feel good"
-            ],
-            [
-                "healthy",
-                "2024-02-13",
-                "it become better"
-            ]
-        ],
-        "motherCowNumber": "Null",
-        "Milkproduction": [
-            [
-                "2024-02-16",
-                "8"
-            ],
-            [
-                "2024-02-15",
-                "5"
-            ],
-            [
-                "2024-02-14",
-                "12"
-            ],
-            [
-                "2024-02-13",
-                "5"
-            ]
-        ]
-    },
-    {
-        "cowNumber": "3",
-        "entryDate": "2024-02-18",
-        "species": "white",
-        "Medicalexamination": [
-            [
-                "sick",
-                "2024-02-12",
-                "it's sick"
-            ]
-        ],
-        "motherCowNumber": "1",
-        "Milkproduction": [
-            [
-                "2024-02-16",
-                "8"
-            ],
-            [
-                "2024-02-15",
-                "5"
-            ],
-            [
-                "2024-02-14",
-                "7"
-            ],
-            [
-                "2024-02-13",
-                "9"
-            ],
-            [
-                "2024-02-12",
-                "20"
-            ]
-        ]
-    },
-    {
-        "cowNumber": "4",
-        "entryDate": "2024-01-25",
-        "species": "frence",
-        "Medicalexamination": [],
-        "motherCowNumber": "Null",
-        "Milkproduction": [
-            [
-                "2024-02-29",
-                "9"
-            ]
-        ]
-    },
-    {
-        "cowNumber": "2",
-        "entryDate": "2024-02-14",
-        "species": "black",
-        "Medicalexamination": [],
-        "motherCowNumber": "Null",
-        "Milkproduction": [
-            [
-                "2024-02-14",
-                "2"
-            ],
-            [
-                "2024-02-14",
-                "8"
-            ]
-        ]
-    },
-    {
-        "cowNumber": "5",
-        "entryDate": "2023-12-20",
-        "species": "white",
-        "Medicalexamination": [],
-        "motherCowNumber": "Null",
-        "Milkproduction": [
-            [
-                "2024-02-12",
-                "8"
-            ]
-        ]
-    },
-    {
-        "cowNumber": "6",
-        "entryDate": "2023-11-22",
-        "species": "white",
-        "Medicalexamination": [],
-        "motherCowNumber": "3",
-        "Milkproduction": []
-    },
-    {
-        "cowNumber": "7",
-        "entryDate": "2023-10-17",
-        "species": "spanish",
-        "Medicalexamination": [],
-        "motherCowNumber": "Null",
-        "Milkproduction": []
-    },
-    {
-        "cowNumber": "8",
-        "entryDate": "2023-10-17",
-        "species": "spanish",
-        "Medicalexamination": [],
-        "motherCowNumber": "Null",
-        "Milkproduction": []
-    },
-    {
-        "cowNumber": "10",
-        "entryDate": "2024-02-15",
-        "species": "frence",
-        "Medicalexamination": [],
-        "motherCowNumber": "9",
-        "Milkproduction": []
-    }
+  {
+    "cowNumber": "1",
+    "entryDate": "2024-02-07",
+    "species": "back",
+    "Medicalexamination": [
+      [
+        "healhty",
+        "2024-02-27",
+        "it good"
+      ],
+      [
+        "sick",
+        "2024-02-12",
+        "don't feel good"
+      ],
+      [
+        "healthy",
+        "2024-02-13",
+        "it become better"
+      ]
+    ],
+    "motherCowNumber": "Null",
+    "Milkproduction": [
+      [
+        "2024-02-16",
+        "8"
+      ],
+      [
+        "2024-02-15",
+        "5"
+      ],
+      [
+        "2024-02-14",
+        "12"
+      ],
+      [
+        "2024-02-13",
+        "5"
+      ]
+    ]
+  },
+  {
+    "cowNumber": "3",
+    "entryDate": "2024-02-18",
+    "species": "white",
+    "Medicalexamination": [
+      [
+        "sick",
+        "2024-02-12",
+        "it's sick"
+      ]
+    ],
+    "motherCowNumber": "1",
+    "Milkproduction": [
+      [
+        "2024-02-12",
+        "20"
+      ],
+      [
+        "2024-02-13",
+        "9"
+      ],
+      [
+        "2024-02-18",
+        "7"
+      ],
+      [
+        "2024-02-19",
+        "5"
+      ],
+      [
+        "2024-02-16",
+        "8"
+      ]
+    ]
+  },
+  {
+    "cowNumber": "4",
+    "entryDate": "2024-01-25",
+    "species": "frence",
+    "Medicalexamination": [],
+    "motherCowNumber": "Null",
+    "Milkproduction": [
+      [
+        "2024-02-29",
+        "9"
+      ]
+    ]
+  },
+  {
+    "cowNumber": "2",
+    "entryDate": "2024-02-14",
+    "species": "black",
+    "Medicalexamination": [],
+    "motherCowNumber": "Null",
+    "Milkproduction": [
+      [
+        "2024-02-14",
+        "2"
+      ],
+      [
+        "2024-02-14",
+        "8"
+      ]
+    ]
+  },
+  {
+    "cowNumber": "5",
+    "entryDate": "2023-12-20",
+    "species": "white",
+    "Medicalexamination": [],
+    "motherCowNumber": "Null",
+    "Milkproduction": [
+      [
+        "2024-02-12",
+        "8"
+      ]
+    ]
+  },
+  {
+    "cowNumber": "6",
+    "entryDate": "2023-11-22",
+    "species": "white",
+    "Medicalexamination": [],
+    "motherCowNumber": "3",
+    "Milkproduction": [
+      [
+        "2024-02-20",
+        "8"
+      ]
+    ]
+  },
+  {
+    "cowNumber": "7",
+    "entryDate": "2023-10-17",
+    "species": "frence",
+    "Medicalexamination": [],
+    "motherCowNumber": "Null",
+    "Milkproduction": [
+      [
+        "2024-02-23",
+        "8"
+      ],
+      [
+        "2024-02-22",
+        "9"
+      ],
+      [
+        "2024-02-21",
+        "11"
+      ]
+    ]
+  },
+  {
+    "cowNumber": "8",
+    "entryDate": "2023-10-17",
+    "species": "spanish",
+    "Medicalexamination": [],
+    "motherCowNumber": "Null",
+    "Milkproduction": [
+      [
+        "2024-02-25",
+        "11"
+      ],
+      [
+        "2024-02-24",
+        "9"
+      ]
+    ]
+  }
 ]
